@@ -1,0 +1,5 @@
+Centipede, 5550000, DKV, 50, $12.5
+Mousetrap, 895230, WJS, 12, $3
+Frogger, 93022440, ABC, 7250, $1812.5
+Tempest, 4230500, VFD, 300, $75
+Defender, 750245000, LEH, 100, $25

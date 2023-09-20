@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1636518064 source:c:\users\van_o\documents\cs2337 project 3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<queue>
+	<iomanip>
+	"Game.h"
+	"Node.h"
+	"BinTree.h"
+	<queue>
+
+1635908114 source:c:\users\van_o\documents\cs2337 project 3\src\game.cpp
+	"Game.h"
+
+1635908127 c:\users\van_o\documents\cs2337 project 3\include\game.h
+	<string>
+	<iostream>
+
+1636515906 c:\users\van_o\documents\cs2337 project 3\game.h
+	<string>
+	<iostream>
+
+1636504862 source:c:\users\van_o\documents\cs2337 project 3\game.cpp
+	"Game.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1636504862 c:\users\van_o\documents\cs2337 project 3\node.h
+	<iostream>
+
+1636516638 c:\users\van_o\documents\cs2337 project 3\bintree.h
+	"Node.h"
+	<iostream>
+	<string>
+
